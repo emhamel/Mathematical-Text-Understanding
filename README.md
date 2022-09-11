@@ -14,13 +14,15 @@ The data was collected from a random sampling of mathematical and scientific arX
 The Models
 -----------
 
-In this repo, the following models are implemented in jypter notebooks:
+In this repo, the following models are implemented in jypter notebook tutorials:
 
 1. Vanilla Seq2Seq
 2. Transformer Seq2Seq
 3. Pointer Network
 4. Match-LSTM
 5. BERT (Huggingface's BertForQuestionAnswering)
+
+These tutorials are aimed to as well as 
 
 Contact
 -------
@@ -31,6 +33,7 @@ Please message me with any feedback or errors you may find!  All help is apprici
 Notes
 -------
 There is a small error in right-most subfigure or figure 1 in [1]. The correct figure should be:
+![Corrected Subfigure](/images/correct_subfigure.png)
 
 References
 -------
