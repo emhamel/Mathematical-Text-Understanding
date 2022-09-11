@@ -1,5 +1,4 @@
-================
-``Mathematical Token Definition Extraction`` readme
+#``Mathematical Token Definition Extraction`` readme
 ================
 
 Introduction
@@ -29,4 +28,10 @@ Read more
 
 Contact
 -------
-Emma Hamel <ebhamel2@illinois.edu>
+Email: <ebhamel2@illinois.edu>
+
+Please message me with any errors you may find! All help is appriciated.
+
+Notes
+-------
+There is a small error in figure 1 
