@@ -37,4 +37,5 @@ There is a small error in right-most subfigure of figure 1 in [1]. The correct f
 
 References
 -------
-[1] 
+[1] Hamel, Emma., Zheng, Hongbo., Kani, Nickvash. "An evaluation of NLP methods to extract
+mathematical token descriptors." International Conference on Intelligent Computer Mathematics. Springer, Cham, 2022.
