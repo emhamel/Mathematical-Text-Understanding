@@ -4,7 +4,7 @@
 Introduction
 ------------
 
-This work describes and answers a problem in Mathematical Named-Entity Recognition: ``Given a mathematical object and the context in which it, can we extract its definition?``  This repo contains a dedicated, Mathematical Token Definition Extraction (MTDE) dataset, the MTDE dataset, as well as the implemetations of five different neural defintion extraction models. [1] is a peer-reviewed full analysis on the MTDE problem and how the models perform on the MTDE dataset. 
+This work describes and answers a problem in Mathematical Named-Entity Recognition: ``Given a mathematical object and the context in which it, can we extract its definition?``  This repo contains the Mathematical Token Definition Extraction (MTDE) dataset as well as the implemetations of five different neural defintion extraction models. [1] is a peer-reviewed full analysis on the MTDE problem and how the models perform on the MTDE dataset. 
 
 The Dataset
 -----------
@@ -32,7 +32,7 @@ Please message me with any feedback or errors you may find!  Any help is apprici
 
 Notes
 -------
-There is a small error in right-most subfigure or figure 1 in [1]. The correct figure should be:
+There is a small error in right-most subfigure of figure 1 in [1]. The correct figure should be:
 ![Corrected Subfigure](/images/correct_subfigure.png)
 
 References
